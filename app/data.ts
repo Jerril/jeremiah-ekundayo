@@ -122,4 +122,4 @@ export const SOCIAL_LINKS: SocialLink[] = [
   // },
 ]
 
-export const EMAIL = 'dayoolapeju@outlook.com@'
+export const EMAIL = 'dayoolapeju@outlook.com'
