@@ -137,7 +137,7 @@ export default function Personal() {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            Focused on creating secure and scalable software products.
+            Focused on building reliable, secure and scalable software products.
             I write about technology and share what i learn along the way.
           </p>
         </div>
